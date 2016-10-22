@@ -14,6 +14,7 @@ The assignment followed five steps, delineated in Coursera as follow:
 Data from step 4 and 5 will be written out as output in two files and were also uploaded onto this repository
 1. Step4Data.csv
 2. Step5Data.csv
+However because Step5Data.csv is too big, the two files could not be uploaded as they are but zipped into Step4_5Data.zip
 
-The code book was also uploaded onto this repository which was named: AssignmentCodeBook.txt
+The new code book for each variable was also uploaded onto this repository which was named: AssignmentCodeBook.txt
 
