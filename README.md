@@ -11,7 +11,9 @@ The assignment followed five steps, delineated in Coursera as follow:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Data from step 4 and 5 will be written out as output in two files: 
-1. 
-2. 
+Data from step 4 and 5 will be written out as output in two files and were also uploaded onto this repository
+1. Step4Data.csv
+2. Step5Data.csv
+
+The code book was also uploaded onto this repository which was named: AssignmentCodeBook.txt
 
